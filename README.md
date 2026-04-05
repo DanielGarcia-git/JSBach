@@ -91,4 +91,4 @@ HanoiRec n src dst aux |:
 ## Author
 
 Daniel García Estévez
- + **email:** [daniel.garcia.estevez@estudiantat.upc.edu](mailto:daniel.garcia.estevez@estudiantat.upc.edu)
+ + **email:** [daniel.garcia.estevez@hotmail.com](mailto:daniel.garcia.estevez@hotmail.com)
